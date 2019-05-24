@@ -1,0 +1,20 @@
+<svg width='350px' height='180px'>
+  <style>
+    #poly1a { stroke:red; stroke-width:6px; fill:green; stroke-miterlimit:1.9; }
+    #poly2a { stroke:blue; stroke-width:3px; stroke-miterlimit:20; fill:cyan; fill-rule:evenodd; }
+    #poly3a { stroke:yellow; stroke-width:3px; stroke-dasharray:10,5; fill:none; }
+  </style>
+  <polygon id='poly1a' points='15 35, 20 20, 40 10, 60 60, 80 10, 100 70, 102 20, 130 60, 150 20, 170 40' />
+  <polygon id='poly2a' points='60 75, 90 150, 18 104, 102 104, 30 150' />
+  <polygon id='poly3a' points='230 30, 280 30, 280 70, 200 70, 200 100, 220 100, 220 140, 250 140' />
+</svg>
+
+<svg width='350px' height='180px' style='background-image:url(img/alpha.png);'>
+  <style>
+    #poly1b { stroke:red; stroke-width:6px; fill:green; stroke-miterlimit:1.9; }
+    #poly2b { stroke:blue; stroke-width:3px; stroke-miterlimit:20; fill:cyan; fill-rule:evenodd; }
+    #poly3b { stroke:yellow; stroke-width:3px; stroke-dasharray:10,5; fill:none; }
+  </style>
+  <polygon id='poly1b' points='15 35, 20 20, 40 10, 60 60, 80 10, 100 70, 102 20, 130 60, 150 20, 170 40' />
+  <polygon id='poly2b' points='60 75, 90 150, 18 104, 102 104, 30 150' />
+  <polygon id='poly3b' points='230 30, 280 30, 280 70, 200 70, 200 100, 220 100, 220 140, 250 140' /> 
